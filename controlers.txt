@@ -1,0 +1,4 @@
+to change the position of the puyos key up
+to move left key left
+to move rigth key rigth
+to move down faster key down
